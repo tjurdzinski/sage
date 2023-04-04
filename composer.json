@@ -1,5 +1,5 @@
 {
-  "name": "php-sage/sage",
+  "name": "tjurdzinski/sage",
   "description": "☯ Insightful PHP debugging assistant.",
   "keywords": ["sage", "php", "dumper", "debug", "dump", "var_dup", "debug_backtrace", "json_decode"],
   "type": "library",
